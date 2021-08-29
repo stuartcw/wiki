@@ -1,2 +1,2 @@
 # tiddlywiki
-Stuart's Tiddlywiki
+Stuart's Wiki
